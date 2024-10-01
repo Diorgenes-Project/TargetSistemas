@@ -1,0 +1,1 @@
+Ligaria o interruptor A e iria para a sala e verificaria qual lampada esta acesa na primeira ida, depois eu voltaria e desligaria o interruptor A e ligaria o B e na segunda ida veria qual lampada esta acesa e o C seria qual não tivesse ligado na ida anterior e nessa.

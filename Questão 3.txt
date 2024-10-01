@@ -1,0 +1,1 @@
+65 o calculo pegara o K = 0 e aumentara até K = 12, enquanto isso SOMA pegara o valor anterior e somara com o K atual.
